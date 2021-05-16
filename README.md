@@ -11,6 +11,10 @@ I'm learning at the moment Angular, NodeJS and Flutter
 
 🚀 Rockseat projects
 
+📚 Collage projects
+
+📫 How to reach me:
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thiago1oliveira@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-de-paula/)
 ___
 
