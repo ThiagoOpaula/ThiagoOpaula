@@ -5,6 +5,12 @@ FullStack Developer, Typescript fan, currently studying computer science in UNIP
 
 I'm learning at the moment Angular, NodeJS and Flutter
 
+📱 Mobile Apps
+
+💻 Front-end projects
+
+🚀 Rockseat projects
+
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-de-paula/)
 ___
 
