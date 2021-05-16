@@ -1,10 +1,12 @@
 ### Hi there 👋, I am Thiago
+___
 
 FullStack Developer, Typescript fan, currently studying computer science in UNIP
 
 I'm learning at the moment Angular, NodeJS and Flutter
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-de-paula/)
+___
 
 ### Technologies & Tools
 
@@ -17,6 +19,7 @@ I'm learning at the moment Angular, NodeJS and Flutter
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+___
 
 ### GitHub Stats
 
