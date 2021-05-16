@@ -1,4 +1,4 @@
-### Hi there 👋, I am Thiago 🇧🇷
+### Hi there 👋, I am Thiago
 
 FullStack Developer, Typescript fan, currently studying computer science in UNIP
 
