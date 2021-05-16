@@ -3,7 +3,7 @@ ___
 
 FullStack Developer, Typescript fan, currently studying computer science in UNIP
 
-I'm learning at the moment Angular, NodeJS and Flutter
+I'm learning at the moment Angular, NodeJS, and Flutter
 
 📱 Mobile Apps
 
