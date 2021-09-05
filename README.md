@@ -36,11 +36,6 @@ ___
 [![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoOpaula&show_icons=true&theme=dark)](https://github.com/thiagoOpaula/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoOpaula&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoOpaula&repo=paper-shares&theme=dark)](https://github.com/ThiagoOpaula/paper-shares)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoOpaula&repo=Ignite-Split_it&theme=dark)](https://github.com/ThiagoOpaula/Ignite-Split_it)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoOpaula&repo=C6-bank-clone&theme=dark)](https://github.com/ThiagoOpaula/C6-bank-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoOpaula&repo=Facebook-navbar&theme=dark)](https://github.com/ThiagoOpaula/Facebook-navbar)
 
 <!--
 **ThiagoOpaula/ThiagoOpaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
