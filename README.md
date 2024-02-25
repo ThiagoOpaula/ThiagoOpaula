@@ -25,12 +25,13 @@ ___
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ___
 
 ### GitHub Stats
 
 <!--[![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoOpaula&show_icons=true&theme=dark)](https://github.com/thiagoOpaula/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoOpaula&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoOpaula&layout=compact&theme=dark)
 
 
 <!--
