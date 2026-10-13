@@ -1,5 +1,3 @@
----
-
 ### Hi there, I'm Thiago! 👋
 
 #### 🚀 About Me
@@ -38,8 +36,6 @@ I bring a blend of creativity and adaptability, enabling me to integrate seamles
 Feel free to reach out if you want to discuss technology, collaborate on a project, or just chat!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/thiago-oliveira-de-paula)
-
----
 
 <!--
 **ThiagoOpaula/ThiagoOpaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
